@@ -7,6 +7,13 @@
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
+---
+![](https://komarev.com/ghpvc/?username=mortef&color=blue)
+
+![Mortef github stats](https://github-readme-stats.vercel.app/api?username=mortef&theme=transparent&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortef&theme=transparent) 
+
+
+
 <!---AoC 2022
 
 ![](https://img.shields.io/badge/day%20📅-01-blue) ![](https://img.shields.io/badge/stars%20⭐-2-yellow) --->
