@@ -7,6 +7,10 @@
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
+<!---AoC 2022
+
+![](https://img.shields.io/badge/day%20📅-01-blue) ![](https://img.shields.io/badge/stars%20⭐-2-yellow) --->
+
 <!---
 Mortef/Mortef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
