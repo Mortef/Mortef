@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mortef&color=blue)
+
 - 👋 Hey! I’m [Mortef](https://github.com/Mortef)
 
 - ![qb_24](https://user-images.githubusercontent.com/5538506/205150678-4a5bf50d-fda4-4cd7-8c21-2a47fa2dc878.png) I work at [QuickBird](https://github.com/QuickBirdEng)
@@ -7,11 +9,10 @@
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
+
 ---
-![](https://komarev.com/ghpvc/?username=mortef&color=blue)
 
-![Mortef github stats](https://github-readme-stats.vercel.app/api?username=mortef&theme=transparent&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortef&theme=transparent) 
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mortef&theme=transparent&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortef&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --->
 
 
 <!---AoC 2022
