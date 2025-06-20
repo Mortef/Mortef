@@ -5,7 +5,7 @@
 - 🦅 I work at [QuickBird](https://github.com/QuickBirdEng)
 <!--- - 👀 I’m interested in ... --->
 
-- 🌱 I’m currently learning [Dart](https://github.com/dart-lang)
+- 🌱 I’m currently learning [Python](https://github.com/python)
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
