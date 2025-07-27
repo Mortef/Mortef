@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=mortef&color=blue)
 
-- 👋 Hey! I’m [Mortef](https://github.com/Mortef)
+- 👋 Hey! I’m [Marcos](https://github.com/Mortef)
 
 - 🦅 I work at [QuickBird](https://github.com/QuickBirdEng)
 <!--- - 👀 I’m interested in ... --->
